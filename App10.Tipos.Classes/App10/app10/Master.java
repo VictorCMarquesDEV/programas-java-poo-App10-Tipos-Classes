@@ -1,4 +1,4 @@
-package App10;
+package app10;
 
 public class Master {
 

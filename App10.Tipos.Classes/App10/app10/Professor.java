@@ -1,4 +1,4 @@
-package App10;
+package app10;
 
 public final class Professor extends Pessoa{
 	private String especialidade;
